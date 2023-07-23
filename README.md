@@ -1,7 +1,8 @@
 # Hilarious Campus
 
 ## Introduction
-Welcome to Hilarious Campus, the premier dating platform exclusively designed for college students who value the significance of humor in forming genuine connections. Our mission is to create an environment where like-minded scholars can meet, laugh, and explore meaningful relationships.
+Welcome to Hilarious Campus, the premier dating platform exclusively designed for college students who value the significance of humor in forming genuine connections. Our mission is to create an environment for college students where
+like-minded scholars can meet, laugh, and explore meaningful relationships.
 
 ## Features
 - **Campus Connections**: Connect with scholars from various academic institutions to widen your horizons.
@@ -25,4 +26,4 @@ Connect with us on social media:
 
 For any inquiries, please email us at hilariouscampus@gmail.com.
 
-Enjoy your journey on Hilarious Campus! 😄🎉
+Get ready to enjoy your journey on Hilarious Campus! 😄🎉
